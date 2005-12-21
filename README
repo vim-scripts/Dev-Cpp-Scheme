@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1434
+
+Nice, clear, gentle, professional colorscheme from Dev-C++.
+
+By Xi Chen, HyperNewbie, 
+based on the nice structure of the Visual C++ theme :)
+
+Its te default Dev-C++ theme with little fix-ups from Kate editor. Nice white-background theme that uses gentle colors and strong colors where appropriate, so you grab the right attention while not killing your eyes.
+
+Should work on most versions of vim...
+
+
+
